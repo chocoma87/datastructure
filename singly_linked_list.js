@@ -1,4 +1,5 @@
 // singly linked list with tail
+// 참고 (coursera - data structure course) : https://d3c33hcgiwev3.cloudfront.net/_52e80f34296ebf21912ca201cabebef8_05_1_arrays_and_lists.pdf?Expires=1490832000&Signature=SYGiMb~gDXFpdPaQEJjo-hcsXJeh8SRWJuRhlHsBjHKFRIbnJEEJ2piaeGDpMSNGvMq~~y8CAS4FQiKqLL50GI-KvtEFRxmA9Ji0E0DDPWtWzu-tk5n~mFbRWJIgmpdZOKeS6afiOo6ZTkSC9f9v96Cga3WEVlgIN3KkKSKTNmU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 
 function Node (key){
     this.key = key;
